@@ -29,3 +29,10 @@ Basta substituir o código atual:
 
 Pelo código do arquivo index.js
 <pre> index.js </pre>
+
+O código já foi testado utilizando uma extensão chamada TamperMonkey.
+
+Dúvidas:
+
+<pre>Equipe de Desenvolvimento
+(63) 9 8434-4321</pre>
